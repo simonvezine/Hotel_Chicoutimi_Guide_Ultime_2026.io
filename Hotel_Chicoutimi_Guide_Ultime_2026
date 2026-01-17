@@ -1,0 +1,1410 @@
+<function_calls>
+<invoke name="artifacts">
+<parameter name="command">create</parameter>
+<parameter name="type">application/vnd.ant.code</parameter>
+<parameter name="language">html</parameter>
+<parameter name="id">hotel_chicoutimi_complete_code</parameter>
+<parameter name="title">Code HTML Complet - Guide Hôtels Chicoutimi 2026</parameter>
+<parameter name="content"><!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Guide complet des meilleurs hôtels à Chicoutimi (Saguenay) pour 2026. Comparatif indépendant avec avis (Booking, TripAdvisor, Google), réservation directe, festivals, attractions et restaurants." />
+  <meta name="keywords" content="Hôtel Chicoutimi, hébergement Saguenay, Château Cran Chaud, Balcon Blanc, guide 2026, hôtels affaires Saguenay, restaurants Chicoutimi, tourisme Saguenay-Lac-Saint-Jean" />
+  <meta name="robots" content="index,follow" />
+  <meta property="og:title" content="Hôtel Chicoutimi : Guide Ultime 2026 | Comparatif, Avis & Réservation" />
+  <meta property="og:description" content="Guide indépendant des meilleurs hôtels à Chicoutimi pour 2026 : avis, comparatifs, réservation directe, festivals, attractions et restaurants." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://example.com/hotel-chicoutimi-guide-ultime-2026" />
+  <meta property="og:image" content="https://chateaucranchaud.com/wp-content/uploads/2025/10/Charme-patrimoinial-1024x683.webp" />
+  <meta property="og:locale" content="fr_CA" />
+  <title>Hôtel Chicoutimi : Guide Ultime 2026 | Comparatif, Avis & Réservation</title>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "ItemList",
+        "name": "Classement Meilleurs Hôtels à Chicoutimi 2026",
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "numberOfItems": 8,
+        "itemListElement": [
+          {"@type": "ListItem", "position": 1, "name": "Château Cran Chaud", "url": "https://chateaucranchaud.com"},
+          {"@type": "ListItem", "position": 2, "name": "Auberge Balcon Blanc", "url": "https://www.balconblanc.com"},
+          {"@type": "ListItem", "position": 3, "name": "OTL Gouverneur Saguenay"},
+          {"@type": "ListItem", "position": 4, "name": "Le Montagnais"},
+          {"@type": "ListItem", "position": 5, "name": "Hôtel Chicoutimi (Hyvi)"},
+          {"@type": "ListItem", "position": 6, "name": "Delta Hotels by Marriott Saguenay"},
+          {"@type": "ListItem", "position": 7, "name": "La Saguenéenne"},
+          {"@type": "ListItem", "position": 8, "name": "Comfort Inn"}
+        ]
+      },
+      {
+        "@type": "Hotel",
+        "@id": "https://chateaucranchaud.com/#hotel",
+        "name": "Château Cran Chaud",
+        "description": "Hôtel patrimonial à Chicoutimi dans un ancien presbytère. 19 chambres, check-in autonome, Wi-Fi.",
+        "image": "https://chateaucranchaud.com/wp-content/uploads/2025/10/Charme-patrimoinial-1024x683.webp",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "240 Rue Bossé",
+          "addressLocality": "Chicoutimi",
+          "addressRegion": "QC",
+          "postalCode": "G7J 1L1",
+          "addressCountry": "CA"
+        },
+        "geo": {"@type": "GeoCoordinates", "latitude": 48.4279, "longitude": -71.0550},
+        "url": "https://chateaucranchaud.com",
+        "telephone": "+1-418-544-8234",
+        "priceRange": "$$$",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "8.3",
+          "bestRating": "10",
+          "reviewCount": "138"
+        },
+        "amenityFeature": [
+          {"@type": "LocationFeatureSpecification", "name": "WiFi gratuit", "value": true},
+          {"@type": "LocationFeatureSpecification", "name": "Stationnement gratuit", "value": true},
+          {"@type": "LocationFeatureSpecification", "name": "Check-in autonome 24h", "value": true},
+          {"@type": "LocationFeatureSpecification", "name": "Climatisation", "value": true},
+          {"@type": "LocationFeatureSpecification", "name": "Accès PMR", "value": true}
+        ]
+      },
+      {
+        "@type": "Hotel",
+        "@id": "https://www.balconblanc.com/#hotel",
+        "name": "Auberge Balcon Blanc",
+        "description": "Auberge à Chicoutimi, proche de la Cathédrale et de la Zone Portuaire.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "285 Rue du Séminaire",
+          "addressLocality": "Chicoutimi",
+          "addressRegion": "QC",
+          "postalCode": "G7H 4J4",
+          "addressCountry": "CA"
+        },
+        "url": "https://www.balconblanc.com",
+        "priceRange": "$$",
+        "aggregateRating": {"@type": "AggregateRating", "ratingValue": "7.9", "bestRating": "10", "reviewCount": "456"}
+      },
+      {
+        "@type": "FAQPage",
+        "datePublished": "2026-01-15",
+        "mainEntity": [
+          {"@type": "Question","name":"Quel est le meilleur hôtel à Chicoutimi en 2026 ?","acceptedAnswer":{"@type":"Answer","text":"Le Château Cran Chaud est présenté comme le meilleur choix 2026 dans ce guide : hôtel patrimonial, 19 chambres, check-in autonome, et un score Booking.com indiqué de 8.3/10 (138 avis)."}},
+          {"@type":"Question","name":"Où réserver : Booking, Expedia ou site direct ?","acceptedAnswer":{"@type":"Answer","text":"La réservation directe est généralement recommandée pour obtenir le meilleur tarif et des conditions flexibles. Les OTA restent utiles pour comparer et lire les avis vérifiés."}},
+          {"@type":"Question","name":"Comment se rendre à Chicoutimi depuis Montréal ?","acceptedAnswer":{"@type":"Answer","text":"En voiture : environ 4 h 30 via A-40 puis A-175. Par avion : aéroport de Bagotville (YBG) à environ 15 km du centre."}}
+        ]
+      },
+      {
+        "@type":"BreadcrumbList",
+        "itemListElement":[
+          {"@type":"ListItem","position":1,"name":"Québec","item":"https://example.com/quebec/"},
+          {"@type":"ListItem","position":2,"name":"Saguenay–Lac-Saint-Jean","item":"https://example.com/saguenay/"},
+          {"@type":"ListItem","position":3,"name":"Hôtel Chicoutimi","item":"https://example.com/hotel-chicoutimi/"}
+        ]
+      }
+    ]
+  }
+  </script>
+  <style>
+    :root{
+      --primary:#1a365d;
+      --primary-light:#2c5282;
+      --accent:#d69e2e;
+      --accent-light:#ecc94b;
+      --success:#38a169;
+      --bg:#f7fafc;
+      --card:#ffffff;
+      --text:#1a202c;
+      --text-muted:#718096;
+      --border:#e2e8f0;
+      --booking:#003580;
+      --tripadvisor:#00aa6c;
+      --google:#4285f4;
+      --expedia:#b8860b;
+      --shadow: 0 4px 12px rgba(0,0,0,0.08);
+    }
+
+    *{box-sizing:border-box;margin:0;padding:0;}
+    html{scroll-behavior:smooth;}
+    body{
+      font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+      background:var(--bg);
+      color:var(--text);
+      line-height:1.7;
+      font-size:16px;
+    }
+    .container{max-width:1000px;margin:0 auto;padding:20px;}
+
+    .skip-link{
+      position:absolute;left:-999px;top:auto;width:1px;height:1px;overflow:hidden;
+    }
+    .skip-link:focus{
+      left:12px;top:12px;width:auto;height:auto;
+      background:#fff;color:var(--primary);
+      padding:10px 12px;border:2px solid var(--primary);border-radius:10px;z-index:2000;
+    }
+
+    nav{
+      position:sticky;top:0;background:var(--card);
+      border-bottom:1px solid var(--border);
+      z-index:1000;
+      box-shadow:0 2px 4px rgba(0,0,0,0.04);
+    }
+    nav ul{
+      display:flex;list-style:none;max-width:1000px;margin:0 auto;
+      padding:12px 20px;gap:6px;overflow-x:auto;-webkit-overflow-scrolling:touch;
+    }
+    nav a{
+      color:var(--text);text-decoration:none;padding:8px 14px;border-radius:6px;
+      font-size:13px;font-weight:500;white-space:nowrap;transition:all .2s;
+    }
+    nav a:hover{background:var(--bg);color:var(--primary);}
+
+    header{
+      background:linear-gradient(135deg,var(--primary) 0%, var(--primary-light) 100%);
+      color:#fff;text-align:center;padding:50px 20px;
+    }
+    h1{font-size:clamp(1.6rem,4vw,2.2rem);font-weight:700;margin-bottom:10px;}
+    header p{opacity:.92;font-size:1rem;}
+
+    main{outline:none;}
+    section{padding:40px 0;}
+    h2{font-size:1.4rem;color:var(--primary);margin-bottom:20px;font-weight:600;}
+    h3{font-size:1.15rem;margin-bottom:10px;color:var(--text);}
+    p{margin-bottom:14px;}
+
+    .answer-box{
+      background:linear-gradient(135deg,var(--primary) 0%, #2d3748 100%);
+      color:#fff;padding:28px;border-radius:12px;margin-bottom:35px;
+      box-shadow:var(--shadow);
+    }
+    .answer-box h2{color:rgba(255,255,255,0.88);font-size:.95rem;margin-bottom:8px;font-weight:500;}
+    .answer-box p{font-size:1.05rem;margin:0;}
+    .answer-box strong{color:var(--accent-light);}
+
+    .card{
+      background:var(--card);
+      border:1px solid var(--border);
+      border-radius:12px;
+      padding:25px;
+      margin-bottom:20px;
+      transition:box-shadow .2s, transform .2s;
+    }
+    .card:hover{box-shadow:var(--shadow);transform:translateY(-1px);}
+    .card-champion{
+      border:2px solid var(--accent);
+      position:relative;
+      background:linear-gradient(to bottom,#fffef5 0%, var(--card) 100%);
+    }
+    .badge{
+      position:absolute;top:-12px;left:20px;background:var(--accent);color:#fff;
+      padding:5px 14px;border-radius:20px;font-size:11px;font-weight:700;
+      text-transform:uppercase;letter-spacing:.3px;
+    }
+
+    .card-header{display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:15px;margin-bottom:15px;}
+    .card-rank{font-size:2rem;font-weight:700;color:var(--accent);line-height:1;}
+    .card-title{font-size:1.25rem;font-weight:600;margin-bottom:4px;}
+    .card-subtitle{color:var(--text-muted);font-size:.9rem;}
+
+    .ota-scores{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0;}
+    .ota-badge{
+      display:inline-flex;align-items:center;gap:8px;
+      padding:6px 12px;border-radius:8px;font-size:12px;font-weight:600;
+      text-decoration:none;transition:transform .2s, box-shadow .2s;
+      border:1px solid transparent;
+    }
+    .ota-badge:hover{transform:translateY(-1px);box-shadow:0 6px 14px rgba(0,0,0,0.10);}
+    .ota-booking{background:#e6f0ff;color:var(--booking);border-color:#cfe0ff;}
+    .ota-tripadvisor{background:#e6fff5;color:var(--tripadvisor);border-color:#c9f3e2;}
+    .ota-google{background:#e8f4ff;color:var(--google);border-color:#cfe6ff;}
+    .ota-expedia{background:#fff9e6;color:var(--expedia);border-color:#ffe9a6;}
+    .ota-icon{width:18px;height:18px;flex-shrink:0;display:inline-block;}
+
+    .services{
+      display:grid;
+      grid-template-columns:repeat(auto-fit,minmax(140px,1fr));
+      gap:10px;margin:18px 0;
+    }
+    .service{
+      display:flex;align-items:center;gap:8px;padding:10px 12px;background:var(--bg);
+      border-radius:8px;font-size:13px;border:1px solid #edf2f7;
+    }
+    .service svg{width:18px;height:18px;color:var(--success);flex-shrink:0;}
+
+    .btn-group{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px;}
+    .btn{
+      display:inline-flex;align-items:center;gap:6px;
+      padding:12px 20px;border-radius:10px;text-decoration:none;
+      font-weight:700;font-size:14px;transition:all .2s;
+    }
+    .btn:hover{transform:translateY(-2px);box-shadow:0 10px 18px rgba(0,0,0,0.14);}
+    .btn-primary{background:var(--primary);color:#fff;}
+    .btn-accent{background:var(--accent);color:#fff;}
+    .btn-outline{background:#fff;color:var(--primary);border:2px solid var(--primary);}
+
+    .map-container{
+      width:100%;height:250px;border-radius:10px;overflow:hidden;margin:20px 0;
+      border:1px solid var(--border);background:#fff;
+    }
+    .map-container iframe{width:100%;height:100%;border:0;}
+
+    .review-quote{
+      background:var(--bg);border-left:4px solid var(--accent);
+      padding:15px 20px;margin:18px 0;border-radius:0 8px 8px 0;
+      font-style:italic;color:var(--text-muted);
+    }
+    .review-quote cite{display:block;margin-top:8px;font-style:normal;font-size:12px;color:var(--text);font-weight:700;}
+
+    details{
+      background:var(--card);border:1px solid var(--border);border-radius:10px;
+      margin-bottom:10px;overflow:hidden;
+    }
+    summary{
+      padding:16px 20px;cursor:pointer;font-weight:700;font-size:.95rem;
+      display:flex;justify-content:space-between;align-items:center;
+      list-style:none;transition:background .2s;
+    }
+    summary:hover{background:var(--bg);}
+    summary::-webkit-details-marker{display:none;}
+    summary::after{content:"+";font-size:1.3rem;color:var(--text-muted);}
+    details[open] summary::after{content:"−";}
+    details[open]{border-color:var(--primary);}
+    details[open] summary{background:var(--bg);border-bottom:1px solid var(--border);}
+    .accordion-content{padding:20px;}
+    .accordion-content p:last-child{margin-bottom:0;}
+
+    .table-wrapper{overflow-x:auto;margin:20px 0;border-radius:10px;border:1px solid var(--border);background:#fff;}
+    table{width:100%;border-collapse:collapse;font-size:14px;}
+    th{background:var(--primary);color:#fff;padding:14px 12px;text-align:left;font-weight:700;}
+    td{padding:12px;border-bottom:1px solid var(--border);}
+    tr:last-child td{border-bottom:none;}
+    tr:hover td{background:var(--bg);}
+    .score-cell{font-weight:800;}
+    .score-high{color:var(--success);}
+    .score-mid{color:var(--accent);}
+
+    .grid-2{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px;}
+    .grid-3{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:15px;}
+
+    a.link-external{
+      color:var(--primary);
+      text-decoration:underline;
+      text-decoration-color:var(--border);
+      text-underline-offset:2px;
+    }
+    a.link-external:hover{text-decoration-color:var(--primary);}
+
+    ul,ol{margin:14px 0;padding-left:22px;}
+    li{margin-bottom:8px;}
+
+    footer{
+      background:var(--primary);color:#fff;text-align:center;
+      padding:35px 20px;margin-top:50px;
+    }
+    footer p{margin:5px 0;opacity:.9;font-size:13px;}
+
+    .toc{
+      background:var(--card);
+      border:1px solid var(--border);
+      border-radius:10px;
+      padding:20px;
+      margin-bottom:30px;
+    }
+    .toc h3{margin-bottom:12px;}
+    .toc ul{list-style:none;padding:0;margin:0;columns:2;}
+    .toc li{margin-bottom:6px;break-inside:avoid;}
+    .toc a{color:var(--text-muted);text-decoration:none;font-size:13px;}
+    .toc a:hover{color:var(--primary);}
+
+    figure{margin:0;}
+
+    .social-links{
+      display:flex;gap:12px;flex-wrap:wrap;margin-top:10px;
+    }
+    .social-links a{
+      display:inline-flex;align-items:center;gap:8px;
+      padding:10px 12px;border-radius:10px;border:1px solid var(--border);
+      text-decoration:none;color:var(--text);background:#fff;
+      transition:transform .2s, box-shadow .2s;
+    }
+    .social-links a:hover{transform:translateY(-1px);box-shadow:var(--shadow);}
+    .social-links svg{width:18px;height:18px;flex-shrink:0;}
+
+    .festival-logo{
+      width:30px;height:30px;margin-right:8px;vertical-align:middle;border-radius:6px;
+      border:1px solid var(--border);background:#fff;
+    }
+
+    @media (max-width:600px){
+      .card{padding:18px;}
+      section{padding:30px 0;}
+      .toc ul{columns:1;}
+      .services{grid-template-columns:1fr 1fr;}
+    }
+
+    .back-to-top{
+      position:fixed;bottom:20px;right:20px;
+      background:var(--primary);color:#fff;
+      width:44px;height:44px;border-radius:999px;
+      display:none;align-items:center;justify-content:center;
+      text-decoration:none;font-size:18px;box-shadow:0 10px 18px rgba(0,0,0,0.18);
+    }
+    .back-to-top:hover{background:var(--primary-light);}
+
+    /* CAROUSEL */
+    .carousel {
+      position: relative;
+      border-radius: 12px;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      background: #fff;
+      margin: 18px 0;
+    }
+
+    .carousel-track {
+      display: flex;
+      transition: transform 260ms ease;
+      will-change: transform;
+    }
+
+    .carousel-slide {
+      min-width: 100%;
+    }
+
+    .carousel-slide img {
+      width: 100%;
+      height: 280px;
+      object-fit: cover;
+      display: block;
+    }
+
+    @media (max-width: 600px) {
+      .carousel-slide img { height: 220px; }
+    }
+
+    .carousel-btn {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(0,0,0,0.45);
+      color: #fff;
+      border: none;
+      width: 42px;
+      height: 42px;
+      border-radius: 999px;
+      cursor: pointer;
+      z-index: 2;
+      display: grid;
+      place-items: center;
+    }
+
+    .carousel-btn:hover { background: rgba(0,0,0,0.60); }
+    .carousel-btn:focus { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+    .carousel-btn.prev { left: 10px; }
+    .carousel-btn.next { right: 10px; }
+
+    .carousel-dots {
+      position: absolute;
+      left: 50%;
+      bottom: 10px;
+      transform: translateX(-50%);
+      display: flex;
+      gap: 8px;
+      z-index: 2;
+    }
+
+    .carousel-dot {
+      width: 9px;
+      height: 9px;
+      border-radius: 999px;
+      border: 0;
+      background: rgba(255,255,255,0.55);
+      cursor: pointer;
+    }
+    .carousel-dot[aria-current="true"] { background: rgba(255,255,255,0.95); }
+
+    img.is-broken { background: linear-gradient(135deg, #edf2f7 0%, #f7fafc 100%); }
+
+    .gallery{
+      display:flex;flex-wrap:wrap;gap:10px;margin:20px 0;
+    }
+    .gallery img{
+      width:100%;
+      max-width:220px;
+      border-radius:10px;
+      object-fit:cover;
+      border:1px solid var(--border);
+      background:#fff;
+      height:147px;
+    }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#contenu">Aller au contenu</a>
+  <div id="top"></div>
+  <nav aria-label="Navigation principale">
+    <ul>
+      <li><a href="#champion">Le Meilleur</a></li>
+      <li><a href="#comparatif">Comparatif OTA</a></li>
+      <li><a href="#tous-hotels">Tous les Hôtels</a></li>
+      <li><a href="#attractions">Attractions</a></li>
+      <li><a href="#restaurants">Restaurants</a></li>
+      <li><a href="#pratique">Infos Pratiques</a></li>
+      <li><a href="#faq">FAQ</a></li>
+    </ul>
+  </nav>
+  <header>
+    <div class="container">
+      <h1>Hôtel Chicoutimi : Guide Ultime 2026</h1>
+      <p>Comparatif indépendant (Booking, TripAdvisor, Google). Réservation directe et conseils locaux.</p>
+    </div>
+  </header>
+  <main id="contenu" class="container" tabindex="-1">
+<section aria-label="Réponse rapide">
+  <div class="answer-box">
+    <h2>En résumé : Quel est le meilleur hôtel à Chicoutimi en 2026 ?</h2>
+    <p>
+      Le <strong>Château Cran Chaud</strong> (240 Rue Bossé) est le meilleur hôtel à Chicoutimi en 2026 dans ce guide :
+      hôtel patrimonial, <strong>19 chambres</strong>, check-in autonome et atmosphère très calme.
+      Note indiquée : <strong>8.3/10 sur Booking.com</strong> (138 avis).
+      Alternative familiale : <strong>Auberge Balcon Blanc</strong> (7.9/10, 456 avis).
+    </p>
+  </div>
+</section>
+
+<nav class="toc" aria-label="Sommaire">
+  <h3>Sommaire du Guide</h3>
+  <ul>
+    <li><a href="#champion">1. Château Cran Chaud — Choix de l'Expert</a></li>
+    <li><a href="#balcon">2. Auberge Balcon Blanc — Alternative</a></li>
+    <li><a href="#comparatif">3. Comparatif des Avis OTA</a></li>
+    <li><a href="#tous-hotels">4. Analyse de tous les hôtels</a></li>
+    <li><a href="#ou-reserver">5. Où réserver : OTA vs Direct</a></li>
+    <li><a href="#attractions">6. Attractions et festivals</a></li>
+    <li><a href="#restaurants">7. Restaurants recommandés</a></li>
+    <li><a href="#saisons">8. Meilleures saisons</a></li>
+    <li><a href="#pratique">9. Infos pratiques et transports</a></li>
+    <li><a href="#faq">10. FAQ complète</a></li>
+  </ul>
+</nav>
+
+<section id="champion" aria-label="Meilleur hôtel">
+  <article class="card card-champion">
+    <span class="badge">Choix de l'Expert 2026</span>
+
+    <div class="card-header">
+      <div>
+        <span class="card-rank">#1</span>
+        <h2 class="card-title">Château Cran Chaud</h2>
+        <p class="card-subtitle">240 Rue Bossé • Quartier du Bassin • Hôtel patrimonial à Chicoutimi</p>
+      </div>
+    </div>
+
+    <div class="ota-scores">
+      <a href="https://www.booking.com/hotel/ca/chateau-cran-chaud.html" target="_blank" rel="noopener" class="ota-badge ota-booking" aria-label="Voir Château Cran Chaud sur Booking.com">
+        <svg class="ota-icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path fill="currentColor" d="M7.5 3A3.5 3.5 0 0 0 4 6.5v11A3.5 3.5 0 0 0 7.5 22H12a6 6 0 0 0 0-12H9V6.5A1.5 1.5 0 0 0 7.5 5H7V3h.5ZM9 12h3a4 4 0 0 1 0 8H9v-8Z"/>
+        </svg>
+        <span>Booking.com</span>
+        <strong>8.3/10</strong>
+        <span>(138 avis)</span>
+      </a>
+
+      <a href="https://www.tripadvisor.com/Hotel_Review-g1144652-d33224854-Reviews-Hotel_Chateau_Cran_Chaud" target="_blank" rel="noopener" class="ota-badge ota-tripadvisor" aria-label="Voir Château Cran Chaud sur TripAdvisor">
+        <svg class="ota-icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path fill="currentColor" d="M12 3c2.7 0 5 .9 6.9 2.4L21 4.3 20 7c.7 1.1 1 2.4 1 3.8 0 3.9-3.1 7-7 7-1.6 0-3-.5-4.2-1.4L7 20.5 6 18l2.1-2.5C7.4 14.3 7 13 7 11.6c0-1.4.4-2.7 1.1-3.8L6 4.3l2.1 1.1C9.6 3.9 10.8 3 12 3Zm-4 7.5A2.5 2.5 0 1 0 8 15a2.5 2.5 0 0 0 0-5Zm8 0A2.5 2.5 0 1 0 16 15a2.5 2.5 0 0 0 0-5Z"/>
+        </svg>
+        <span>TripAdvisor</span>
+        <strong>⭐⭐⭐⭐⭐</strong>
+      </a>
+
+      <span class="ota-badge ota-google" aria-label="Note Google">
+        <svg class="ota-icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path fill="currentColor" d="M12 10.2v3.9h5.5c-.7 2.3-2.6 3.9-5.5 3.9A6 6 0 1 1 12 6c1.5 0 2.9.6 4 1.6l2.6-2.6A9.7 9.7 0 0 0 12 2.3 9.7 9.7 0 1 0 12 21.7c5.3 0 9.3-3.7 9.3-9.4 0-.7-.1-1.3-.2-1.9H12Z"/>
+        </svg>
+        <span>Google</span>
+        <strong>4.6/5</strong>
+      </span>
+    </div>
+
+    <p>
+      Le <strong>Château Cran Chaud</strong> vise une expérience d'hébergement patrimonial au centre-ville de Chicoutimi.
+      L'établissement met de l'avant l'autonomie (check-in par code), le confort et une ambiance calme.
+    </p>
+
+    <h3>Services offerts</h3>
+    <div class="services">
+      <div class="service">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+        <span>Wi-Fi gratuit</span>
+      </div>
+      <div class="service">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+        <span>Check-in autonome 24h</span>
+      </div>
+      <div class="service">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="1" y="3" width="15" height="13"/><polygon points="16 8 20 8 23 11 23 16 16 16 16 8"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/></svg>
+        <span>Stationnement gratuit</span>
+      </div>
+      <div class="service">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+        <span>Climatisation</span>
+      </div>
+      <div class="service">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg>
+        <span>Bâtiment patrimonial</span>
+      </div>
+      <div class="service">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M18 8h1a4 4 0 0 1 0 8h-1M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"/><line x1="6" y1="1" x2="6" y2="4"/><line x1="10" y1="1" x2="10" y2="4"/><line x1="14" y1="1" x2="14" y2="4"/></svg>
+        <span>Café/Thé dans les chambres</span>
+      </div>
+    </div>
+
+    <div class="review-quote">
+      "Perfect hotel, very easy with online check-in/check-out. The decor was absolutely beautiful. The design is breathtaking. I had read some comments about the noise, but honestly, it was very quiet."
+      <cite>— Extrait d'avis (TripAdvisor)</cite>
+    </div>
+
+    <p><strong>Tarifs :</strong> 141$ – 212$ CAD/nuit (selon saison et catégorie)</p>
+    <p><strong>Idéal pour :</strong> couples, voyages d'affaires, séjours patrimoniaux, centre-ville à pied.</p>
+
+    <div class="carousel" aria-label="Photos du Château Cran Chaud">
+      <button class="carousel-btn prev" type="button" aria-label="Photo précédente">‹</button>
+      <button class="carousel-btn next" type="button" aria-label="Photo suivante">›</button>
+
+      <div class="carousel-track">
+        <div class="carousel-slide">
+          <img src="https://chateaucranchaud.com/wp-content/uploads/2025/10/Charme-patrimoinial-1024x683.webp"
+               alt="Façade du Château Cran Chaud de nuit" loading="lazy" decoding="async">
+        </div>
+        <div class="carousel-slide">
+          <img src="https://chateaucranchaud.com/wp-content/uploads/2025/08/entree-hotel.jpg"
+               alt="Entrée du Château Cran Chaud" loading="lazy" decoding="async">
+        </div>
+        <div class="carousel-slide">
+          <img src="https://chateaucranchaud.com/wp-content/uploads/2025/07/101-1-LAFORGE-Suite.jpg"
+               alt="Suite au Château Cran Chaud" loading="lazy" decoding="async">
+        </div>
+      </div>
+
+      <div class="carousel-dots" aria-label="Navigation photos"></div>
+    </div>
+
+    <div class="social-links" aria-label="Réseaux sociaux Château Cran Chaud">
+      <a href="https://www.facebook.com/chateaucranchaud" target="_blank" rel="noopener" aria-label="Facebook Château Cran Chaud">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M13.5 22v-8h2.7l.5-3h-3.2V9.1c0-.9.3-1.6 1.7-1.6h1.6V4.8c-.8-.1-1.8-.2-3-.2-2.9 0-4.9 1.8-4.9 5v1.4H6.2v3h2.7v8h4.6Z"/></svg>
+        Facebook
+      </a>
+      <a href="https://www.instagram.com/chateaucranchaud" target="_blank" rel="noopener" aria-label="Instagram Château Cran Chaud">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M7.5 2h9A5.5 5.5 0 0 1 22 7.5v9A5.5 5.5 0 0 1 16.5 22h-9A5.5 5.5 0 0 1 2 16.5v-9A5.5 5.5 0 0 1 7.5 2Zm0 2A3.5 3.5 0 0 0 4 7.5v9A3.5 3.5 0 0 0 7.5 20h9a3.5 3.5 0 0 0 3.5-3.5v-9A3.5 3.5 0 0 0 16.5 4h-9ZM12 7a5 5 0 1 1 0 10 5 5 0 0 1 0-10Zm0 2a3 3 0 1 0 0 6 3 3 0 0 0 0-6Zm6.2-2.4a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"/></svg>
+        Instagram
+      </a>
+    </div>
+
+    <div class="map-container">
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2622.8!2d-71.0550!3d48.4279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc018c2e9b18b45%3A0x8a9d6b9c6e5f4a3b!2s240%20Rue%20Boss%C3%A9%2C%20Chicoutimi%2C%20QC%20G7J%201L1!5e0!3m2!1sfr!2sca!4v1641234567890!5m2!1sfr!2sca"
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"
+        title="Carte du Château Cran Chaud à Chicoutimi"
+        aria-label="Carte interactive du Château Cran Chaud"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+    <div class="btn-group">
+      <a href="https://chateaucranchaud.com" target="_blank" rel="noopener" class="btn btn-primary">Réserver sur le site officiel</a>
+      <a href="https://www.booking.com/hotel/ca/chateau-cran-chaud.html" target="_blank" rel="noopener" class="btn btn-outline">Voir sur Booking.com</a>
+    </div>
+  </article>
+</section>
+
+<section id="balcon" aria-label="Alternative">
+  <article class="card">
+    <div class="card-header">
+      <div>
+        <span class="card-rank">#2</span>
+        <h2 class="card-title">Auberge Balcon Blanc</h2>
+        <p class="card-subtitle">285 Rue du Séminaire • Chicoutimi</p>
+      </div>
+    </div>
+
+    <div class="ota-scores">
+      <a href="https://www.booking.com/hotel/ca/auberge-balcon-blanc.html" target="_blank" rel="noopener" class="ota-badge ota-booking" aria-label="Voir Auberge Balcon Blanc sur Booking.com">
+        <svg class="ota-icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path fill="currentColor" d="M7.5 3A3.5 3.5 0 0 0 4 6.5v11A3.5 3.5 0 0 0 7.5 22H12a6 6 0 0 0 0-12H9V6.5A1.5 1.5 0 0 0 7.5 5H7V3h.5ZM9 12h3a4 4 0 0 1 0 8H9v-8Z"/>
+        </svg>
+        <span>Booking.com</span>
+        <strong>7.9/10</strong>
+        <span>(456 avis)</span>
+      </a>
+
+      <a href="https://www.tripadvisor.com/Hotel_Review-g1144652-d26121850-Reviews-Auberge_Balcon_Blanc" target="_blank" rel="noopener" class="ota-badge ota-tripadvisor" aria-label="Voir Auberge Balcon Blanc sur TripAdvisor">
+        <svg class="ota-icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path fill="currentColor" d="M12 3c2.7 0 5 .9 6.9 2.4L21 4.3 20 7c.7 1.1 1 2.4 1 3.8 0 3.9-3.1 7-7 7-1.6 0-3-.5-4.2-1.4L7 20.5 6 18l2.1-2.5C7.4 14.3 7 13 7 11.6c0-1.4.4-2.7 1.1-3.8L6 4.3l2.1 1.1C9.6 3.9 10.8 3 12 3Zm-4 7.5A2.5 2.5 0 1 0 8 15a2.5 2.5 0 0 0 0-5Zm8 0A2.5 2.5 0 1 0 16 15a2.5 2.5 0 0 0 0-5Z"/>
+        </svg>
+        <span>TripAdvisor</span>
+        <strong>⭐⭐⭐⭐</strong>
+      </a>
+    </div>
+
+    <p>
+      L'<strong>Auberge Balcon Blanc</strong> est une option conviviale au centre de Chicoutimi, pratique pour les séjours autonomes.
+      Elle met de l'avant une ambiance "maison" et l'accès à pied aux secteurs centraux.
+    </p>
+
+    <h3>Services offerts</h3>
+    <div class="services">
+      <div class="service">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+        <span>Wi-Fi gratuit</span>
+      </div>
+      <div class="service">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+        <span>Check-in autonome</span>
+      </div>
+      <div class="service">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg>
+        <span>Cuisine / coin repas</span>
+      </div>
+      <div class="service">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="1" y="3" width="15" height="13"/><polygon points="16 8 20 8 23 11 23 16 16 16 16 8"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/></svg>
+        <span>Stationnement à proximité</span>
+      </div>
+      <div class="service">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/><path d="M12 6v6l4 2"/></svg>
+        <span>Climatisation</span>
+      </div>
+    </div>
+
+    <div class="review-quote">
+      "Spacious, clean, cozy, and comfortable! I wouldn't stay anywhere else in Saguenay! Quiet area, very close to downtown Chicoutimi."
+      <cite>— Extrait d'avis (Booking.com)</cite>
+    </div>
+
+    <p><strong>Tarifs :</strong> 100$ – 150$ CAD/nuit</p>
+    <p><strong>Idéal pour :</strong> familles, séjours prolongés, voyageurs autonomes.</p>
+
+    <div class="carousel" aria-label="Photos de l'Auberge Balcon Blanc">
+      <button class="carousel-btn prev" type="button" aria-label="Photo précédente">‹</button>
+      <button class="carousel-btn next" type="button" aria-label="Photo suivante">›</button>
+
+      <div class="carousel-track">
+        <div class="carousel-slide">
+          <img src="https://static.wixstatic.com/media/95501a_d9bae2ca699a414aa783aec0450d911c~mv2.jpg/v1/fill/w_1400,h_900,al_c,q_85,enc_avif,quality_auto/95501a_d9bae2ca699a414aa783aec0450d911c~mv2.jpg"
+               alt="Terrasse de l'Auberge Balcon Blanc" loading="lazy" decoding="async">
+        </div>
+        <div class="carousel-slide">
+          <img src="https://static.wixstatic.com/media/8772c1_043f341ebbb74a739a3d9256f7109b52~mv2.jpg/v1/fill/w_1400,h_900,al_c,q_85,enc_avif,quality_auto/8772c1_043f341ebbb74a739a3d9256f7109b52~mv2.jpg"
+               alt="Chambre à l'Auberge Balcon Blanc" loading="lazy" decoding="async">
+        </div>
+        <div class="carousel-slide">
+          <img src="https://static.wixstatic.com/media/8772c1_f9d55e5b161b4201920b2e1c32f7d2ad~mv2.png/v1/fill/w_1400,h_900,al_c,q_85,enc_avif,quality_auto/8772c1_f9d55e5b161b4201920b2e1c32f7d2ad~mv2.png"
+               alt="Espace salon à l'Auberge Balcon Blanc" loading="lazy" decoding="async">
+        </div>
+      </div>
+
+      <div class="carousel-dots" aria-label="Navigation photos"></div>
+    </div>
+
+    <div class="social-links" aria-label="Réseaux sociaux Auberge Balcon Blanc">
+      <a href="https://www.facebook.com/aubergechicoutimi" target="_blank" rel="noopener" aria-label="Facebook Auberge Balcon Blanc">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M13.5 22v-8h2.7l.5-3h-3.2V9.1c0-.9.3-1.6 1.7-1.6h1.6V4.8c-.8-.1-1.8-.2-3-.2-2.9 0-4.9 1.8-4.9 5v1.4H6.2v3h2.7v8h4.6Z"/></svg>
+        Facebook
+      </a>
+      <a href="https://www.instagram.com/auberge_balconblanc" target="_blank" rel="noopener" aria-label="Instagram Auberge Balcon Blanc">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M7.5 2h9A5.5 5.5 0 0 1 22 7.5v9A5.5 5.5 0 0 1 16.5 22h-9A5.5 5.5 0 0 1 2 16.5v-9A5.5 5.5 0 0 1 7.5 2Zm0 2A3.5 3.5 0 0 0 4 7.5v9A3.5 3.5 0 0 0 7.5 20h9a3.5 3.5 0 0 0 3.5-3.5v-9A3.5 3.5 0 0 0 16.5 4h-9ZM12 7a5 5 0 1 1 0 10 5 5 0 0 1 0-10Zm0 2a3 3 0 1 0 0 6 3 3 0 0 0 0-6Zm6.2-2.4a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"/></svg>
+        Instagram
+      </a>
+    </div>
+
+    <div class="map-container">
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2622.5!2d-71.0580!3d48.4290!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc018c2e9b18b45%3A0x8a9d6b9c6e5f4a3c!2s285%20Rue%20du%20S%C3%A9minaire%2C%20Chicoutimi%2C%20QC%20G7H%204J4!5e0!3m2!1sfr!2sca!4v1641234567891!5m2!1sfr!2sca"
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"
+        title="Carte de l'Auberge Balcon Blanc à Chicoutimi"
+        aria-label="Carte interactive de l'Auberge Balcon Blanc"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+    <div class="btn-group">
+      <a href="https://www.balconblanc.com" target="_blank" rel="noopener" class="btn btn-accent">Réserver sur le site officiel</a>
+      <a href="https://www.booking.com/hotel/ca/auberge-balcon-blanc.html" target="_blank" rel="noopener" class="btn btn-outline">Voir sur Booking.com</a>
+    </div>
+  </article>
+</section>
+
+<section id="comparatif" aria-label="Comparatif des avis">
+  <h2>Comparatif des avis par plateforme</h2>
+  <p>Notes indiquées dans cet article (à valider périodiquement si vous voulez du "temps réel").</p>
+
+  <div class="table-wrapper" role="region" aria-label="Tableau comparatif des hôtels">
+    <table>
+      <thead>
+        <tr>
+          <th>Hôtel</th>
+          <th>Booking.com</th>
+          <th>TripAdvisor</th>
+          <th>Chambres</th>
+          <th>Prix/nuit</th>
+          <th>Proximité centre</th>
+          <th>Affaires</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Château Cran Chaud</strong></td>
+          <td class="score-cell score-high">8.3/10 (138)</td>
+          <td>⭐⭐⭐⭐⭐</td>
+          <td>19</td>
+          <td>141–212$</td>
+          <td>À pied</td>
+          <td>Wi-Fi, autonomie</td>
+        </tr>
+        <tr>
+          <td><strong>Balcon Blanc</strong></td>
+          <td class="score-cell score-mid">7.9/10 (456)</td>
+          <td>⭐⭐⭐⭐</td>
+          <td>7</td>
+          <td>100–150$</td>
+          <td>À pied</td>
+          <td>Wi-Fi, autonomie</td>
+        </tr>
+        <tr>
+          <td>OTL Gouverneur</td>
+          <td class="score-cell score-high">9.2/10</td>
+          <td>⭐⭐⭐⭐⭐</td>
+          <td>102</td>
+          <td>137–250$</td>
+          <td>Voiture</td>
+          <td>Salles, spa</td>
+        </tr>
+        <tr>
+          <td>Le Montagnais</td>
+          <td class="score-cell score-mid">7.5/10</td>
+          <td>⭐⭐⭐</td>
+          <td>302</td>
+          <td>120–180$</td>
+          <td>Voiture</td>
+          <td>Congrès</td>
+        </tr>
+        <tr>
+          <td>Hôtel Chicoutimi (Hyvi)</td>
+          <td class="score-cell">7.2/10</td>
+          <td>⭐⭐⭐</td>
+          <td>78</td>
+          <td>90–140$</td>
+          <td>Centre</td>
+          <td>Wi-Fi</td>
+        </tr>
+        <tr>
+          <td>Delta Marriott</td>
+          <td class="score-cell score-mid">8.0/10</td>
+          <td>⭐⭐⭐⭐</td>
+          <td>148</td>
+          <td>130–200$</td>
+          <td>Voiture</td>
+          <td>Salles</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section id="ou-reserver" aria-label="Où réserver">
+  <h2>Où réserver votre hôtel à Chicoutimi ?</h2>
+
+  <p>
+    Référence régionale : <a href="https://saguenaylacsaintjean.ca" target="_blank" rel="noopener" class="link-external">Tourisme Saguenay–Lac-Saint-Jean</a>.
+  </p>
+
+  <details open>
+    <summary>Booking.com — le plus d'avis vérifiés</summary>
+    <div class="accordion-content">
+      <p><strong>Avantages :</strong> grand volume d'avis, comparatifs rapides, conditions d'annulation fréquentes.</p>
+      <p><strong>Inconvénients :</strong> commissions, prix parfois plus élevés que le direct.</p>
+      <ul>
+        <li><a href="https://www.booking.com/hotel/ca/chateau-cran-chaud.html" target="_blank" rel="noopener" class="link-external">Château Cran Chaud (Booking)</a></li>
+        <li><a href="https://www.booking.com/hotel/ca/auberge-balcon-blanc.html" target="_blank" rel="noopener" class="link-external">Balcon Blanc (Booking)</a></li>
+      </ul>
+    </div>
+  </details>
+
+  <details>
+    <summary>Expedia / Hotels.com — fidélité</summary>
+    <div class="accordion-content">
+      <p><strong>Avantages :</strong> programmes de récompenses, bundles vol+hôtel.</p>
+      <p><strong>Inconvénients :</strong> support variable selon marchés.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>TripAdvisor — avis + comparateur</summary>
+    <div class="accordion-content">
+      <p><strong>Avantages :</strong> avis détaillés, photos voyageurs, comparaison de prix.</p>
+      <ul>
+        <li><a href="https://www.tripadvisor.com/Hotel_Review-g1144652-d33224854-Reviews-Hotel_Chateau_Cran_Chaud" target="_blank" rel="noopener" class="link-external">Château Cran Chaud (TripAdvisor)</a></li>
+        <li><a href="https://www.tripadvisor.com/Hotel_Review-g1144652-d26121850-Reviews-Auberge_Balcon_Blanc" target="_blank" rel="noopener" class="link-external">Balcon Blanc (TripAdvisor)</a></li>
+      </ul>
+    </div>
+  </details>
+
+  <details>
+    <summary>Site officiel — recommandation (direct)</summary>
+    <div class="accordion-content">
+      <p><strong>Avantages :</strong> contact direct, conditions plus souples, contrôle de l'expérience.</p>
+      <p><strong>Château Cran Chaud :</strong> <a href="https://chateaucranchaud.com" target="_blank" rel="noopener" class="link-external">chateaucranchaud.com</a></p>
+      <p><strong>Balcon Blanc :</strong> <a href="https://www.balconblanc.com" target="_blank" rel="noopener" class="link-external">balconblanc.com</a></p>
+    </div>
+  </details>
+</section>
+
+<section id="tous-hotels" aria-label="Analyse complète">
+  <h2>Analyse de tous les hôtels (résumé)</h2>
+
+  <details>
+    <summary>OTL Gouverneur Saguenay — luxe & spa</summary>
+    <div class="accordion-content">
+      <p>Option haut de gamme (spa, services complets), davantage orientée "confort premium".</p>
+      <p><a href="https://fr.tripadvisor.ca/Hotel_Review-g155026-d13468839-Reviews-OTL_Gouverneur_Saguenay-Chicoutimi_Saguenay_Saguenay_Lac_Saint_Jean_Region_Quebec.html" target="_blank" rel="noopener" class="link-external">OTL Gouverneur sur tripadvisor</a></p>
+    </div>
+  </details>
+
+  <details>
+    <summary>Le Montagnais — complexe familial</summary>
+    <div class="accordion-content">
+      <p>Très grand établissement, populaire pour familles et événements/congrès.</p>
+      <p><a href="https://fr.tripadvisor.ca/Hotel_Review-g155026-d320456-Reviews-Le_Montagnais_Saguenay-Chicoutimi_Saguenay_Saguenay_Lac_Saint_Jean_Region_Quebec.html" target="_blank" rel="noopener" class="link-external">Le Montagnais sur tripadvisor</a></p>
+    </div>
+  </details>
+
+  <details>
+    <summary>Hôtel Chicoutimi (Hyvi) — Rue Racine</summary>
+    <div class="accordion-content">
+      <p>Très central. Peut être plus bruyant selon la période et l'emplacement de la chambre.</p>
+      <p><a href="https://fr.tripadvisor.ca/Hotel_Review-g155026-d183194-Reviews-Hotel_Chicoutimi-Chicoutimi_Saguenay_Saguenay_Lac_Saint_Jean_Region_Quebec.html" target="_blank" rel="noopener" class="link-external">Hôtel Chicoutimi sur tripadvisor</a></p>
+    </div>
+  </details>
+
+  <details>
+    <summary>Delta Hotels by Marriott — standard chaîne</summary>
+    <div class="accordion-content">
+      <p>Option "prévisible", utile pour fidélité / standards de chaîne.</p>
+      <p><a href="https://fr.tripadvisor.ca/Hotel_Review-g155028-d183208-Reviews-Delta_Hotels_by_Marriott_Saguenay_Conference_Centre-Jonquiere_Saguenay_Saguenay_Lac_Sai.html" target="_blank" rel="noopener" class="link-external">Delta Marriott sur tripadvisor</a></p>
+    </div>
+  </details>
+
+  <details>
+    <summary>Options économiques — Comfort Inn, La Saguenéenne, motels</summary>
+    <div class="accordion-content">
+      <p>Pour budget serré ou transit, avec compromis sur cachet/localisation.</p>
+      <p><a href="https://fr.tripadvisor.ca/Hotel_Review-g155026-d183760-Reviews-Comfort_Inn_Chicoutimi-Chicoutimi_Saguenay_Saguenay_Lac_Saint_Jean_Region_Quebec.html" target="_blank" rel="noopener" class="link-external">Comfort Inn, La saguenaéenne, motel sur tripadvisor</a></p>
+    </div>
+  </details>
+</section>
+
+<section id="attractions" aria-label="Attractions touristiques et festivals">
+  <h2>Attractions et festivals près de votre hôtel à Chicoutimi</h2>
+
+  <h3>Attractions principales</h3>
+
+  <details>
+    <summary>La Pulperie de Chicoutimi</summary>
+    <div class="accordion-content">
+      <p>Musée régional (site patrimonial) : expositions, bâtiments historiques, activités saisonnières.</p>
+      <p><strong>Adresse :</strong> 300 Rue Dubuc, Chicoutimi</p>
+      <p><a href="https://www.pulperie.com" target="_blank" rel="noopener" class="link-external">Site officiel Pulperie</a></p>
+      
+      <div class="map-container">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2622.3!2d-71.0610!3d48.4300!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc018c2e9b18b45%3A0x8a9d6b9c6e5f4a3d!2s300%20Rue%20Dubuc%2C%20Chicoutimi%2C%20QC!5e0!3m2!1sfr!2sca!4v1641234567892!5m2!1sfr!2sca"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          title="Carte de la Pulperie de Chicoutimi"
+          aria-label="Carte interactive de la Pulperie de Chicoutimi"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+  </details>
+
+  <details>
+    <summary>Petite Maison Blanche</summary>
+    <div class="accordion-content">
+      <p>Lieu de mémoire associé au déluge de 1996 (visite/médiation selon saison).</p>
+      <p><strong>Adresse :</strong> 2230 Boulevard du Saguenay, Chicoutimi</p>
+      <p><a href="https://www.saguenay.ca/fr/services-aux-citoyens/loisirs-culture-et-vie-communautaire/patrimoine-et-sites-historiques/petite-maison-blanche" target="_blank" rel="noopener" class="link-external">Informations municipales</a></p>
+      
+      <div class="map-container">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2621.8!2d-71.0920!3d48.4350!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc018c2e9b18b45%3A0x8a9d6b9c6e5f4a3e!2s2230%20Boulevard%20du%20Saguenay%2C%20Chicoutimi%2C%20QC!5e0!3m2!1sfr!2sca!4v1641234567893!5m2!1sfr!2sca"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          title="Carte de la Petite Maison Blanche"
+          aria-label="Carte interactive de la Petite Maison Blanche"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+  </details>
+
+  <details>
+    <summary>Fjord du Saguenay (Parc national)</summary>
+    <div class="accordion-content">
+      <p>Randonnées, belvédères, croisières/kayak selon saison.</p>
+      <p><a href="https://www.sepaq.com/pq/sag/" target="_blank" rel="noopener" class="link-external">Parc national du Fjord-du-Saguenay</a></p>
+      
+      <div class="map-container">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2618.5!2d-70.8800!3d48.5000!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc018c2e9b18b45%3A0x8a9d6b9c6e5f4a3f!2sParc%20national%20du%20Fjord-du-Saguenay!5e0!3m2!1sfr!2sca!4v1641234567894!5m2!1sfr!2sca"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          title="Carte du Fjord du Saguenay"
+          aria-label="Carte interactive du Parc national du Fjord-du-Saguenay"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+  </details>
+
+  <details>
+    <summary>Cathédrale Saint-François-Xavier</summary>
+    <div class="accordion-content">
+      <p>Point d'intérêt architectural au centre-ville (visites selon horaires).</p>
+      <p><strong>Adresse :</strong> 514 Rue Racine E, Chicoutimi</p>
+      <p><a href="https://paroissesacrecoeur.com" target="_blank" rel="noopener" class="link-external">Site paroissial</a></p>
+      
+      <div class="map-container">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2622.7!2d-71.0520!3d48.4280!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc018c2e9b18b45%3A0x8a9d6b9c6e5f4a40!2s514%20Rue%20Racine%20E%2C%20Chicoutimi%2C%20QC!5e0!3m2!1sfr!2sca!4v1641234567895!5m2!1sfr!2sca"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          title="Carte de la Cathédrale Saint-François-Xavier"
+          aria-label="Carte interactive de la Cathédrale Saint-François-Xavier"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+  </details>
+
+  <details>
+    <summary>Zone Portuaire (centre-ville)</summary>
+    <div class="accordion-content">
+      <p>Terrasses, spectacles et événements estivaux, accès riverain.</p>
+      <p><strong>Adresse :</strong> 100 Rue Lafontaine, Chicoutimi</p>
+      <p><a href="https://www.saguenay.ca/fr/services-aux-citoyens/loisirs-culture-et-vie-communautaire/parcs-et-installations/zone-portuaire" target="_blank" rel="noopener" class="link-external">Informations municipales</a></p>
+      
+      <div class="map-container">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2622.9!2d-71.0570!3d48.4270!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc018c2e9b18b45%3A0x8a9d6b9c6e5f4a41!2s100%20Rue%20Lafontaine%2C%20Chicoutimi%2C%20QC!5e0!3m2!1sfr!2sca!4v1641234567896!5m2!1sfr!2sca"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          title="Carte de la Zone Portuaire"
+          aria-label="Carte interactive de la Zone Portuaire"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+  </details>
+
+  <h3>Festivals et événements</h3>
+  <details>
+    <summary>Été (juin–août)</summary>
+    <div class="accordion-content">
+      <details>
+        <summary>Festival International des Rythmes du Monde</summary>
+        <div class="accordion-content">
+          <p>Événement culturel majeur à la Zone Portuaire (programme/années à valider avant publication).</p>
+          <p><a href="https://www.rythmesdumonde.com" target="_blank" rel="noopener" class="link-external">Site officiel</a></p>
+        </div>
+      </details>
+
+      <details>
+        <summary>Festival des Bières de Saguenay</summary>
+        <div class="accordion-content">
+          <p>Festival dédié aux microbrasseries locales et régionales.</p>
+          <p><a href="https://festivalbieressaguenay.com" target="_blank" rel="noopener" class="link-external">Site officiel</a></p>
+        </div>
+      </details>
+    </div>
+  </details>
+
+  <details>
+    <summary>Hiver (décembre–mars)</summary>
+    <div class="accordion-content">
+      <details>
+        <summary>Hivernades de Saguenay</summary>
+        <div class="accordion-content">
+          <p>Activités hivernales (dates et programmation à confirmer selon l'année).</p>
+          <p><a href="https://www.saguenay.ca" target="_blank" rel="noopener" class="link-external">Ville de Saguenay</a></p>
+        </div>
+      </details>
+
+      <details>
+        <summary>Festival REGARD</summary>
+        <div class="accordion-content">
+          <p>Festival de courts métrages (dates à valider).</p>
+          <p><a href="https://www.festivalregard.com" target="_blank" rel="noopener" class="link-external">Site officiel</a></p>
+        </div>
+      </details>
+    </div>
+  </details>
+
+  <p><strong>Plus d'informations :</strong> <a href="https://saguenaylacsaintjean.ca" target="_blank" rel="noopener" class="link-external">Tourisme Saguenay–Lac-Saint-Jean</a></p>
+</section>
+
+<section id="restaurants" aria-label="Restaurants">
+  <h2>Où manger près de votre hôtel à Chicoutimi</h2>
+
+  <div class="grid-3">
+    <div class="card">
+      <div class="carousel" aria-label="Photos du Temaki">
+        <button class="carousel-btn prev" type="button" aria-label="Photo précédente">‹</button>
+        <button class="carousel-btn next" type="button" aria-label="Photo suivante">›</button>
+
+        <div class="carousel-track">
+          <div class="carousel-slide">
+            <img src="https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=900&h=600&fit=crop&crop=focalpoint"
+                 alt="Restaurant japonais" loading="lazy" decoding="async">
+          </div>
+          <div class="carousel-slide">
+            <img src="https://images.unsplash.com/photo-1553621042-f6e147245754?w=900&h=600&fit=crop&crop=focalpoint"
+                 alt="Sushis et sashimis" loading="lazy" decoding="async">
+          </div>
+        </div>
+
+        <div class="carousel-dots" aria-label="Navigation photos"></div>
+      </div>
+      
+      <details>
+        <summary>Le Temaki — Cuisine Japonaise</summary>
+        <div class="accordion-content">
+          <p>Sushis et cuisine japonaise de qualité dans un cadre moderne.</p>
+          <p><strong>Spécialités :</strong> Sushis frais, tempuras, ramens</p>
+          <p><strong>Adresse :</strong> 1855 Boulevard du Royaume, Chicoutimi</p>
+          <p><a href="https://www.facebook.com/letemakichicoutimi" target="_blank" rel="noopener" class="link-external">Page Facebook</a></p>
+        </div>
+      </details>
+    </div>
+
+    <div class="card">
+      <div class="carousel" aria-label="Photos de HopEra">
+        <button class="carousel-btn prev" type="button" aria-label="Photo précédente">‹</button>
+        <button class="carousel-btn next" type="button" aria-label="Photo suivante">›</button>
+
+        <div class="carousel-track">
+          <div class="carousel-slide">
+            <img src="https://images.unsplash.com/photo-1538835624715-aeacbc9e7b11?w=900&h=600&fit=crop&crop=focalpoint"
+                 alt="Microbrasserie ambiance" loading="lazy" decoding="async">
+          </div>
+          <div class="carousel-slide">
+            <img src="https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=900&h=600&fit=crop&crop=focalpoint"
+                 alt="Bières artisanales" loading="lazy" decoding="async">
+          </div>
+        </div>
+
+        <div class="carousel-dots" aria-label="Navigation photos"></div>
+      </div>
+      
+      <details>
+        <summary>HopEra — Microbrasserie</summary>
+        <div class="accordion-content">
+          <p>Microbrasserie et pub food avec bières artisanales locales.</p>
+          <p><strong>Spécialités :</strong> Bières maison, burgers, ailes de poulet</p>
+          <p><strong>Adresse :</strong> 1855 Boulevard du Royaume, Chicoutimi</p>
+          <p><a href="https://hopera.ca" target="_blank" rel="noopener" class="link-external">Site officiel</a></p>
+        </div>
+      </details>
+    </div>
+
+    <div class="card">
+      <div class="carousel" aria-label="Photos de La Cuisine">
+        <button class="carousel-btn prev" type="button" aria-label="Photo précédente">‹</button>
+        <button class="carousel-btn next" type="button" aria-label="Photo suivante">›</button>
+
+        <div class="carousel-track">
+          <div class="carousel-slide">
+            <img src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=900&h=600&fit=crop&crop=focalpoint"
+                 alt="Restaurant bistro moderne" loading="lazy" decoding="async">
+          </div>
+          <div class="carousel-slide">
+            <img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=900&h=600&fit=crop&crop=focalpoint"
+                 alt="Plats gastronomiques" loading="lazy" decoding="async">
+          </div>
+        </div>
+
+        <div class="carousel-dots" aria-label="Navigation photos"></div>
+      </div>
+      
+      <details>
+        <summary>La Cuisine — Bistro Contemporain</summary>
+        <div class="accordion-content">
+          <p>Bistro contemporain avec menu saisonnier et produits locaux.</p>
+          <p><strong>Spécialités :</strong> Cuisine du marché, produits régionaux</p>
+          <p><strong>Adresse :</strong> 387 Rue Racine E, Chicoutimi</p>
+          <p><a href="https://www.facebook.com/lacuisinechicoutimi" target="_blank" rel="noopener" class="link-external">Page Facebook</a></p>
+        </div>
+      </details>
+    </div>
+  </div>
+</section>
+
+<section id="saisons" aria-label="Meilleures saisons">
+  <h2>Meilleures saisons pour visiter Chicoutimi</h2>
+
+  <details open>
+    <summary>Été (juin–août) — haute saison</summary>
+    <div class="accordion-content">
+      <p>Activités extérieures, Zone Portuaire, sorties Fjord. Réservation recommandée en avance.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>Automne (septembre–octobre)</summary>
+    <div class="accordion-content">
+      <p>Couleurs d'automne, randonnées, tarifs souvent plus bas.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>Hiver (décembre–mars)</summary>
+    <div class="accordion-content">
+      <p>Sports d'hiver, événements saisonniers, motoneige (selon conditions).</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>Printemps (avril–mai)</summary>
+    <div class="accordion-content">
+      <p>Basse saison : bon rapport valeur/prix, moins d'achalandage.</p>
+    </div>
+  </details>
+</section>
+
+<section id="pratique" aria-label="Informations pratiques et transports">
+  <h2>Informations pratiques et transports</h2>
+
+  <details>
+    <summary>Comment se rendre à Chicoutimi</summary>
+    <div class="accordion-content">
+      <p><strong>Depuis Montréal :</strong> ~4 h 30 via A-40 puis A-175</p>
+      <p><strong>Depuis Québec :</strong> ~2 h 15 via A-175</p>
+      <p><strong>Par avion :</strong> Aéroport de Bagotville (YBG), ~15 km du centre</p>
+      <p><strong>Adresse Château Cran Chaud :</strong> 240 Rue Bossé, Chicoutimi, QC</p>
+      
+      <div class="map-container">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5245.6!2d-71.055!3d48.428!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc018c2e9b18b45%3A0x8a9d6b9c6e5f4a42!2sChicoutimi%2C%20QC!5e0!3m2!1sfr!2sca!4v1641234567897!5m2!1sfr!2sca"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          title="Carte de Chicoutimi et ses environs"
+          aria-label="Carte interactive de Chicoutimi"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+  </details>
+
+  <details>
+    <summary>Transports locaux</summary>
+    <div class="accordion-content">
+      <p><strong>Transport en commun :</strong> Société de transport du Saguenay (STS)</p>
+      <p><a href="https://www.sts.saguenay.ca" target="_blank" rel="noopener" class="link-external">Site officiel STS</a></p>
+      <p><strong>Taxi :</strong> Plusieurs compagnies disponibles</p>
+      <p><strong>Location de voiture :</strong> Disponible à l'aéroport et centre-ville</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>Contacts utiles</summary>
+    <div class="accordion-content">
+      <p><strong>Château Cran Chaud :</strong> 418 544-8234 • <a href="https://chateaucranchaud.com" target="_blank" rel="noopener" class="link-external">chateaucranchaud.com</a></p>
+      <p><strong>Balcon Blanc :</strong> <a href="https://www.balconblanc.com" target="_blank" rel="noopener" class="link-external">balconblanc.com</a></p>
+      <p><strong>Tourisme Saguenay :</strong> <a href="https://saguenaylacsaintjean.ca" target="_blank" rel="noopener" class="link-external">saguenaylacsaintjean.ca</a></p>
+      <p><strong>Urgences :</strong> 911</p>
+      <p><strong>Info-Santé :</strong> 811</p>
+    </div>
+  </details>
+</section>
+
+<section id="faq" aria-label="FAQ">
+  <h2>Foire aux questions (FAQ)</h2>
+
+  <details>
+    <summary>Quel est le meilleur hôtel à Chicoutimi en 2026 ?</summary>
+    <div class="accordion-content">
+      <p>Dans ce guide : Château Cran Chaud (#1) et Auberge Balcon Blanc (#2). Les "meilleurs" choix dépendent toujours de vos priorités : budget, emplacement, calme, services.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>Où réserver : site direct ou OTA ?</summary>
+    <div class="accordion-content">
+      <p>Pour la majorité des voyageurs : lire les avis sur OTA, puis réserver en direct si le tarif/conditions sont meilleurs.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>Faut-il une voiture à Chicoutimi ?</summary>
+    <div class="accordion-content">
+      <p>Pour le centre-ville : pas nécessaire. Pour le Fjord, Monts-Valin, et excursions : recommandé.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>Quelle est la meilleure période pour visiter ?</summary>
+    <div class="accordion-content">
+      <p>L'été (juin-août) pour les activités extérieures et festivals. L'automne (septembre-octobre) pour les couleurs et moins de foule. L'hiver pour les sports d'hiver.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>Y a-t-il des festivals à Chicoutimi ?</summary>
+    <div class="accordion-content">
+      <p>Oui, notamment le Festival International des Rythmes du Monde en été, le Festival REGARD en hiver, et plusieurs événements culturels selon la saison.</p>
+    </div>
+  </details>
+</section>
+
+<section aria-label="Conclusion">
+  <h2>Verdict</h2>
+  <p>Pour un séjour patrimonial et autonome au centre-ville : <strong>Château Cran Chaud</strong>. Pour une option conviviale et pratique : <strong>Auberge Balcon Blanc</strong>.</p>
+
+  <div class="btn-group" style="margin-top:25px;">
+    <a href="https://chateaucranchaud.com" target="_blank" rel="noopener" class="btn btn-primary">Réserver au Château Cran Chaud</a>
+    <a href="https://www.balconblanc.com" target="_blank" rel="noopener" class="btn btn-accent">Réserver au Balcon Blanc</a>
+  </div>
+</section>
+  </main>
+  <footer>
+    <p><strong>Guide indépendant — Hôtels à Chicoutimi (2026)</strong></p>
+    <p>Dernière mise à jour : Janvier 2026 • Sources mentionnées : Booking.com, TripAdvisor, Google, Tourisme Saguenay–Lac-Saint-Jean</p>
+    <p>Écrit par Simon Tremblay</p>
+    <p>Ce guide est présenté comme indépendant (aucune commission indiquée).</p>
+  </footer>
+<a href="#top" class="back-to-top" aria-label="Retour au sommet" title="Retour au sommet">↑</a>
+  <script>
+    // 1) Bouton retour au sommet
+    (function () {
+      const btn = document.querySelector(".back-to-top");
+      const toggle = () => {
+        const y = window.scrollY || document.documentElement.scrollTop;
+        btn.style.display = y > 240 ? "flex" : "none";
+      };
+      window.addEventListener("scroll", toggle, { passive: true });
+      toggle();
+    })();
+
+    // 2) Fallback images (corrige les "images qui ne fonctionnent pas" en production)
+    (function () {
+      const placeholderSvg =
+        "data:image/svg+xml;charset=UTF-8," +
+        encodeURIComponent(`
+          <svg xmlns="http://www.w3.org/2000/svg" width="900" height="600">
+            <defs>
+              <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+                <stop offset="0" stop-color="#f7fafc"/>
+                <stop offset="1" stop-color="#e2e8f0"/>
+              </linearGradient>
+            </defs>
+            <rect width="100%" height="100%" fill="url(#g)"/>
+            <rect x="28" y="28" width="844" height="544" rx="18" fill="#ffffff" stroke="#e2e8f0"/>
+            <path d="M150 485l195-195 140 140 160-160 240 240H150z" fill="#e2e8f0"/>
+            <circle cx="320" cy="270" r="52" fill="#cbd5e0"/>
+            <text x="50%" y="82%" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#718096">
+              Image indisponible
+            </text>
+          </svg>
+        `);
+
+      document.querySelectorAll('Continue17:23img').forEach((img) => {
+img.addEventListener("error", () => {
+if (img.dataset.fallbackApplied) return;
+img.dataset.fallbackApplied = "1";
+img.classList.add("is-broken");
+img.src = placeholderSvg;
+}, { once: true });
+});
+})();
+// 3) Carousel multi-instances
+(function () {
+  function initCarousel(root) {
+    const track = root.querySelector(".carousel-track");
+    const slides = Array.from(root.querySelectorAll(".carousel-slide"));
+    const prevBtn = root.querySelector(".carousel-btn.prev");
+    const nextBtn = root.querySelector(".carousel-btn.next");
+    const dotsWrap = root.querySelector(".carousel-dots");
+
+    if (!track || slides.length === 0) return;
+
+    let index = 0;
+
+    // Créer les dots
+    if (dotsWrap && dotsWrap.children.length === 0) {
+      slides.forEach((_, i) => {
+        const b = document.createElement("button");
+        b.type = "button";
+        b.className = "carousel-dot";
+        b.setAttribute("aria-label", `Aller à la photo ${i + 1}`);
+        b.addEventListener("click", () => setIndex(i));
+        dotsWrap.appendChild(b);
+      });
+    }
+
+    function setIndex(i) {
+      index = (i + slides.length) % slides.length;
+      track.style.transform = `translateX(-${index * 100}%)`;
+      if (dotsWrap) {
+        Array.from(dotsWrap.children).forEach((d, di) => {
+          d.setAttribute("aria-current", di === index ? "true" : "false");
+        });
+      }
+    }
+
+    // Navigation
+    prevBtn && prevBtn.addEventListener("click", () => setIndex(index - 1));
+    nextBtn && nextBtn.addEventListener("click", () => setIndex(index + 1));
+
+    // Accessibilité clavier
+    root.tabIndex = 0;
+    root.addEventListener("keydown", (e) => {
+      if (e.key === "ArrowLeft") setIndex(index - 1);
+      if (e.key === "ArrowRight") setIndex(index + 1);
+    });
+
+    // Swipe tactile
+    let startX = 0;
+    let active = false;
+
+    root.addEventListener("touchstart", (e) => {
+      active = true;
+      startX = e.touches[0].clientX;
+    }, { passive: true });
+
+    root.addEventListener("touchend", (e) => {
+      if (!active) return;
+      active = false;
+      const endX = e.changedTouches[0].clientX;
+      const dx = endX - startX;
+      if (Math.abs(dx) > 40) setIndex(index + (dx < 0 ? 1 : -1));
+    });
+
+    setIndex(0);
+  }
+
+  // Initialiser tous les carrousels
+  document.querySelectorAll(".carousel").forEach(initCarousel);
+})();
+  </script>
+</body>
+</html></parameter>
+</invoke>
+</function_calls>
